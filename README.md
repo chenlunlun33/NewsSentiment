@@ -10,7 +10,7 @@
 2. 刪除停用字
 停用字字表可以參考網路上其他人製作的停用字表，這裡所使用的只單純刪除數字和我於幾篇新聞內容中看見之符號
 4. 使用jieba分詞進行詞語切割
-5. 做情緒分析
+5. 做情緒分析 /n
 正面情緒對照表來源 : https://github.com/sweslo17/chinese_sentiment/blob/master/dict/ntusd-positive.txt
 負面情緒對照表來源 : https://github.com/sweslo17/chinese_sentiment/blob/master/dictntusd-negative.txt
 6. 依據指定時間間隔來作正反面情緒資料加總
